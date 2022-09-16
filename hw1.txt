@@ -1,0 +1,14 @@
+create an .html page 
+
+
+1) create paragraph <p> with some text (2-3 words)
+1.1 create button call it with text "click me" 
+1.2 add eventListener to the button to listen to the "click" event, on click it should change paragraph color to red.
+
+2.1 create paragraph 
+2.2 create input
+2.3 add eventlistenere to the input to listen to "input" event. On every input change paragraph text should be the input value. 
+
+
+*bonus, learn about 
+flexbox
